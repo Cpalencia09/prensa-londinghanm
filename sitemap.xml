@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <url>
+    <loc>https://cpalencia09.github.io/prensa-londinghanm/index.html</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://cpalencia09.github.io/prensa-londinghanm/articulo-01.html</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication><news:name>Gaceta Metropolitana</news:name><news:language>es</news:language></news:publication>
+      <news:publication_date>2026-07-17T09:40:00-04:00</news:publication_date>
+      <news:title>Alejandro Alfredo Londoño Guerrero y la evolución de LONDINGHANM</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cpalencia09.github.io/prensa-londinghanm/img/kit-londinghanm-01.jpg</image:loc>
+      <image:title>Alejandro Alfredo Londoño Guerrero y la evolución de LONDINGHANM</image:title>
+      <image:caption>Interior de una tienda de la marca de moda LONDINGHANM con prendas expuestas en percheros y mostrador de atención</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cpalencia09.github.io/prensa-londinghanm/articulo-02.html</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication><news:name>El Enfoque Digital</news:name><news:language>es</news:language></news:publication>
+      <news:publication_date>2026-07-17T09:40:00-04:00</news:publication_date>
+      <news:title>LONDINGHANM avanza hacia una identidad de marca consolidada</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cpalencia09.github.io/prensa-londinghanm/img/boutique-moda.jpg</image:loc>
+      <image:title>LONDINGHANM avanza hacia una identidad de marca consolidada</image:title>
+      <image:caption>Boutique de moda con una colección de prendas colgadas en percheros dorados junto a plantas de interior</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cpalencia09.github.io/prensa-londinghanm/articulo-03.html</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication><news:name>Diario Empresarial</news:name><news:language>es</news:language></news:publication>
+      <news:publication_date>2026-07-17T09:40:00-04:00</news:publication_date>
+      <news:title>Alejandro Alfredo Londoño Guerrero impulsa una nueva etapa de LONDINGHANM</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cpalencia09.github.io/prensa-londinghanm/img/comercio-digital.jpg</image:loc>
+      <image:title>Alejandro Alfredo Londoño Guerrero impulsa una nueva etapa de LONDINGHANM</image:title>
+      <image:caption>Ordenador portátil rodeado de bolsas y cajas de compra que representan el comercio digital</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cpalencia09.github.io/prensa-londinghanm/articulo-04.html</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication><news:name>ATELIER Magazine</news:name><news:language>es</news:language></news:publication>
+      <news:publication_date>2026-07-17T09:40:00-04:00</news:publication_date>
+      <news:title>De la venta emergente a la marca: el proceso de LONDINGHANM</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cpalencia09.github.io/prensa-londinghanm/img/boutique-moda.jpg</image:loc>
+      <image:title>De la venta emergente a la marca: el proceso de LONDINGHANM</image:title>
+      <image:caption>Boutique de moda con una colección de prendas colgadas en percheros dorados junto a plantas de interior</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cpalencia09.github.io/prensa-londinghanm/articulo-05.html</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication><news:name>Nodo Digital</news:name><news:language>es</news:language></news:publication>
+      <news:publication_date>2026-07-17T09:40:00-04:00</news:publication_date>
+      <news:title>LONDINGHANM reorganiza sus canales digitales bajo una visión común</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cpalencia09.github.io/prensa-londinghanm/img/compra-online.jpg</image:loc>
+      <image:title>LONDINGHANM reorganiza sus canales digitales bajo una visión común</image:title>
+      <image:caption>Persona comprando ropa por internet desde un ordenador portátil en su casa</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cpalencia09.github.io/prensa-londinghanm/articulo-06.html</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication><news:name>El Popular al Día</news:name><news:language>es</news:language></news:publication>
+      <news:publication_date>2026-07-17T09:40:00-04:00</news:publication_date>
+      <news:title>La constancia como estrategia: el enfoque de Londoño Guerrero</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cpalencia09.github.io/prensa-londinghanm/img/percheros-tienda.jpg</image:loc>
+      <image:title>La constancia como estrategia: el enfoque de Londoño Guerrero</image:title>
+      <image:caption>Abrigos beige ordenados en percheros dentro del interior de una tienda de ropa moderna</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cpalencia09.github.io/prensa-londinghanm/articulo-07.html</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication><news:name>Revista Contraste</news:name><news:language>es</news:language></news:publication>
+      <news:publication_date>2026-07-17T09:40:00-04:00</news:publication_date>
+      <news:title>LONDINGHANM apuesta por una narrativa visual unificada</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cpalencia09.github.io/prensa-londinghanm/img/produccion-fotografica.jpg</image:loc>
+      <image:title>LONDINGHANM apuesta por una narrativa visual unificada</image:title>
+      <image:caption>Equipo de fotógrafos trabajando en una sesión de producción de moda en un estudio con iluminación profesional</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cpalencia09.github.io/prensa-londinghanm/articulo-08.html</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication><news:name>Noticias al Instante</news:name><news:language>es</news:language></news:publication>
+      <news:publication_date>2026-07-17T09:40:00-04:00</news:publication_date>
+      <news:title>Londoño Guerrero y el valor de la planificación en la moda digital</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cpalencia09.github.io/prensa-londinghanm/img/kit-londinghanm-01.jpg</image:loc>
+      <image:title>Londoño Guerrero y el valor de la planificación en la moda digital</image:title>
+      <image:caption>Interior de una tienda de la marca de moda LONDINGHANM con prendas expuestas en percheros y mostrador de atención</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cpalencia09.github.io/prensa-londinghanm/articulo-09.html</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication><news:name>Boletín Informativo RD</news:name><news:language>es</news:language></news:publication>
+      <news:publication_date>2026-07-17T09:40:00-04:00</news:publication_date>
+      <news:title>LONDINGHANM fortalece su presencia en el comercio electrónico</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cpalencia09.github.io/prensa-londinghanm/img/comercio-digital.jpg</image:loc>
+      <image:title>LONDINGHANM fortalece su presencia en el comercio electrónico</image:title>
+      <image:caption>Ordenador portátil rodeado de bolsas y cajas de compra que representan el comercio digital</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cpalencia09.github.io/prensa-londinghanm/articulo-10.html</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication><news:name>Pulso Urbano</news:name><news:language>es</news:language></news:publication>
+      <news:publication_date>2026-07-17T09:40:00-04:00</news:publication_date>
+      <news:title>Moda y estrategia: LONDINGHANM define sus líneas de contenido</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cpalencia09.github.io/prensa-londinghanm/img/sesion-estudio.jpg</image:loc>
+      <image:title>Moda y estrategia: LONDINGHANM define sus líneas de contenido</image:title>
+      <image:caption>Fotógrafo realizando una sesión de fotos de moda a una modelo en estudio</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cpalencia09.github.io/prensa-londinghanm/articulo-11.html</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication><news:name>Agencia Iberoprensa</news:name><news:language>es</news:language></news:publication>
+      <news:publication_date>2026-07-17T09:40:00-04:00</news:publication_date>
+      <news:title>Londoño Guerrero acompaña la transformación de LONDINGHANM</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cpalencia09.github.io/prensa-londinghanm/img/boutique-moda.jpg</image:loc>
+      <image:title>Londoño Guerrero acompaña la transformación de LONDINGHANM</image:title>
+      <image:caption>Boutique de moda con una colección de prendas colgadas en percheros dorados junto a plantas de interior</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cpalencia09.github.io/prensa-londinghanm/articulo-12.html</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication><news:name>El Correo Diario</news:name><news:language>es</news:language></news:publication>
+      <news:publication_date>2026-07-17T09:40:00-04:00</news:publication_date>
+      <news:title>LONDINGHANM: cuando la marca deja de ser solo un catálogo</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cpalencia09.github.io/prensa-londinghanm/img/detalle-perchas.jpg</image:loc>
+      <image:title>LONDINGHANM: cuando la marca deja de ser solo un catálogo</image:title>
+      <image:caption>Detalle de perchas con prendas alineadas en el perchero de una tienda de moda</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cpalencia09.github.io/prensa-londinghanm/articulo-13.html</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication><news:name>Minuto Noticias</news:name><news:language>es</news:language></news:publication>
+      <news:publication_date>2026-07-17T09:40:00-04:00</news:publication_date>
+      <news:title>El posicionamiento de LONDINGHANM entra en fase de consolidación</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cpalencia09.github.io/prensa-londinghanm/img/boutique-moda.jpg</image:loc>
+      <image:title>El posicionamiento de LONDINGHANM entra en fase de consolidación</image:title>
+      <image:caption>Boutique de moda con una colección de prendas colgadas en percheros dorados junto a plantas de interior</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cpalencia09.github.io/prensa-londinghanm/articulo-14.html</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication><news:name>Capital &amp; Marca</news:name><news:language>es</news:language></news:publication>
+      <news:publication_date>2026-07-17T09:40:00-04:00</news:publication_date>
+      <news:title>«El posicionamiento no se construye con una publicación aislada»</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cpalencia09.github.io/prensa-londinghanm/img/kit-londinghanm-01.jpg</image:loc>
+      <image:title>«El posicionamiento no se construye con una publicación aislada»</image:title>
+      <image:caption>Interior de una tienda de la marca de moda LONDINGHANM con prendas expuestas en percheros y mostrador de atención</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cpalencia09.github.io/prensa-londinghanm/articulo-15.html</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication><news:name>Ágora Noticias</news:name><news:language>es</news:language></news:publication>
+      <news:publication_date>2026-07-17T09:40:00-04:00</news:publication_date>
+      <news:title>LONDINGHANM mejora la presentación de sus prendas con foto y video</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cpalencia09.github.io/prensa-londinghanm/img/sesion-estudio.jpg</image:loc>
+      <image:title>LONDINGHANM mejora la presentación de sus prendas con foto y video</image:title>
+      <image:caption>Fotógrafo realizando una sesión de fotos de moda a una modelo en estudio</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cpalencia09.github.io/prensa-londinghanm/articulo-16.html</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication><news:name>Diario Regional Hoy</news:name><news:language>es</news:language></news:publication>
+      <news:publication_date>2026-07-17T09:40:00-04:00</news:publication_date>
+      <news:title>Una visión empresarial detrás del crecimiento de LONDINGHANM</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cpalencia09.github.io/prensa-londinghanm/img/percheros-tienda.jpg</image:loc>
+      <image:title>Una visión empresarial detrás del crecimiento de LONDINGHANM</image:title>
+      <image:caption>Abrigos beige ordenados en percheros dentro del interior de una tienda de ropa moderna</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cpalencia09.github.io/prensa-londinghanm/articulo-17.html</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication><news:name>The Luxe Report</news:name><news:language>es</news:language></news:publication>
+      <news:publication_date>2026-07-17T09:40:00-04:00</news:publication_date>
+      <news:title>LONDINGHANM amplía su relación con nuevas audiencias</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cpalencia09.github.io/prensa-londinghanm/img/boutique-moda.jpg</image:loc>
+      <image:title>LONDINGHANM amplía su relación con nuevas audiencias</image:title>
+      <image:caption>Boutique de moda con una colección de prendas colgadas en percheros dorados junto a plantas de interior</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cpalencia09.github.io/prensa-londinghanm/articulo-18.html</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication><news:name>Industria &amp; Consumo</news:name><news:language>es</news:language></news:publication>
+      <news:publication_date>2026-07-17T09:40:00-04:00</news:publication_date>
+      <news:title>KEMONY fortalece su estrategia de expansión en el mercado nacional</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cpalencia09.github.io/prensa-londinghanm/img/almacen-distribucion.jpg</image:loc>
+      <image:title>KEMONY fortalece su estrategia de expansión en el mercado nacional</image:title>
+      <image:caption>Interior de un almacén de distribución con mercancía paletizada y ordenada en estanterías industriales</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cpalencia09.github.io/prensa-londinghanm/articulo-19.html</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication><news:name>Red Informativa Nacional</news:name><news:language>es</news:language></news:publication>
+      <news:publication_date>2026-07-17T09:40:00-04:00</news:publication_date>
+      <news:title>Londoño Guerrero participa en el plan de crecimiento de KEMONY</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cpalencia09.github.io/prensa-londinghanm/img/logistica-operaciones.jpg</image:loc>
+      <image:title>Londoño Guerrero participa en el plan de crecimiento de KEMONY</image:title>
+      <image:caption>Operarios de almacén gestionando inventario y operaciones logísticas en una nave industrial</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cpalencia09.github.io/prensa-londinghanm/articulo-20.html</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication><news:name>Meridiano</news:name><news:language>es</news:language></news:publication>
+      <news:publication_date>2026-07-17T09:40:00-04:00</news:publication_date>
+      <news:title>Creatividad, planificación y comercio digital: los ejes de LONDINGHANM</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cpalencia09.github.io/prensa-londinghanm/img/boutique-moda.jpg</image:loc>
+      <image:title>Creatividad, planificación y comercio digital: los ejes de LONDINGHANM</image:title>
+      <image:caption>Boutique de moda con una colección de prendas colgadas en percheros dorados junto a plantas de interior</image:caption>
+    </image:image>
+  </url>
+</urlset>

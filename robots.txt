@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Bloquear rastreo de parámetros de campaña
+Disallow: /*?utm_
+
+Sitemap: https://cpalencia09.github.io/prensa-londinghanm/sitemap.xml

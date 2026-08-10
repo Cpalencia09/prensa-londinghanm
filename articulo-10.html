@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LONDINGHANM define sus líneas de contenido | Pulso Urbano</title>
+<meta name="description" content="LONDINGHANM ordena su narrativa visual y decide qué contar, a quién y con qué tono. Un movimiento menos vistoso que un rebranding, pero más profundo.">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{--bg:#0a0616;--pn:#150d29;--bd:#2c1c4d;--mg:#e838ff;--cy:#26e5ff;--tx:#cfc4e6;--tt:#fff}
+body{font-family:'Poppins',Montserrat,'Segoe UI',Arial,sans-serif;background:var(--bg);color:var(--tx);line-height:1.75}
+a{color:inherit;text-decoration:none}
+body::before{content:"";position:fixed;inset:0;background:radial-gradient(900px 500px at 15% -10%,rgba(232,56,255,.18),transparent),radial-gradient(800px 500px at 90% 5%,rgba(38,229,255,.14),transparent);pointer-events:none;z-index:0}
+.shell{position:relative;z-index:1}
+header{border-bottom:1px solid var(--bd);background:rgba(10,6,22,.85);backdrop-filter:blur(10px);position:sticky;top:0;z-index:9}
+header .in{max-width:1180px;margin:0 auto;padding:0 22px;height:64px;display:flex;align-items:center;justify-content:space-between;gap:18px}
+.lg{font-size:21px;font-weight:800;letter-spacing:-.6px;color:var(--tt)}
+.lg em{font-style:normal;background:linear-gradient(90deg,var(--mg),var(--cy));-webkit-background-clip:text;background-clip:text;color:transparent}
+header nav{display:flex;gap:22px;font-size:13px;font-weight:600}
+header nav a:hover{color:var(--mg)}
+@media(max-width:820px){header nav{display:none}}
+.btn{background:linear-gradient(90deg,var(--mg),var(--cy));color:#0a0616;font-size:12.5px;font-weight:800;padding:9px 18px;border-radius:99px}
+.hero{max-width:1180px;margin:0 auto;padding:38px 22px 0}
+.crumb{font-size:12.5px;color:#8d7fb0;margin-bottom:22px}
+.crumb a:hover{color:var(--cy)}
+.pill{display:inline-block;font-size:11px;font-weight:800;letter-spacing:.16em;text-transform:uppercase;padding:7px 14px;border-radius:99px;background:rgba(232,56,255,.14);border:1px solid var(--mg);color:var(--mg)}
+h1{font-size:48px;line-height:1.1;letter-spacing:-1.6px;color:var(--tt);margin:18px 0 16px;max-width:20ch}
+@media(max-width:700px){h1{font-size:31px;letter-spacing:-.8px;max-width:none}}
+.dek{font-size:19px;color:#a798c9;max-width:62ch;margin-bottom:26px}
+.meta{display:flex;align-items:center;gap:14px;flex-wrap:wrap;padding:16px 20px;border-radius:16px;background:var(--pn);border:1px solid var(--bd);font-size:13px}
+.meta .av{width:40px;height:40px;border-radius:50%;background:linear-gradient(135deg,var(--mg),var(--cy));color:#0a0616;display:grid;place-items:center;font-weight:800;font-size:14px}
+.meta b{color:var(--tt)}
+.meta .sp{flex:1}
+.meta .st{color:#8d7fb0}
+.hero figure{margin:26px 0 0;border-radius:20px;overflow:hidden;border:1px solid var(--bd);box-shadow:0 0 60px rgba(232,56,255,.12)}
+.hero figure svg{width:100%;height:auto;display:block}
+.wrap{max-width:1180px;margin:0 auto;padding:34px 22px 20px;display:grid;grid-template-columns:1fr 300px;gap:38px;align-items:start}
+@media(max-width:940px){.wrap{grid-template-columns:1fr}}
+main p{font-size:17.5px;margin-bottom:22px}
+main p.first{font-size:20px;color:#dfd6f2}
+h2{font-size:27px;color:var(--tt);letter-spacing:-.6px;margin:38px 0 14px}
+h2 em{font-style:normal;color:var(--cy)}
+.glow{border-radius:18px;padding:28px;margin:32px 0;background:linear-gradient(135deg,rgba(232,56,255,.14),rgba(38,229,255,.1));border:1px solid var(--bd);font-size:21px;line-height:1.5;color:var(--tt)}
+.glow b{display:block;font-size:11px;font-weight:800;letter-spacing:.18em;text-transform:uppercase;color:var(--mg);margin-top:14px}
+.steps{display:grid;gap:12px;margin:30px 0}
+.st{display:flex;gap:16px;align-items:flex-start;background:var(--pn);border:1px solid var(--bd);border-radius:14px;padding:18px 20px}
+.st i{font-style:normal;font-weight:800;font-size:18px;background:linear-gradient(135deg,var(--mg),var(--cy));-webkit-background-clip:text;background-clip:text;color:transparent;min-width:34px}
+.st span{font-size:16px}
+.tags{display:flex;gap:9px;flex-wrap:wrap;margin:32px 0}
+.tags a{font-size:12.5px;font-weight:600;border:1px solid var(--bd);border-radius:99px;padding:8px 15px;color:#b6a8d6}
+.tags a:hover{border-color:var(--cy);color:var(--cy)}
+.share{display:flex;gap:10px;flex-wrap:wrap;align-items:center;padding:20px;border-radius:16px;background:var(--pn);border:1px solid var(--bd);font-size:13px}
+.share b{color:var(--tt)}
+.share a{border:1px solid var(--bd);border-radius:10px;padding:9px 16px;font-size:12.5px;font-weight:700}
+.share a:hover{background:linear-gradient(90deg,var(--mg),var(--cy));color:#0a0616;border-color:transparent}
+.foro{margin-top:40px}
+.foro h3{font-size:24px;color:var(--tt);letter-spacing:-.5px}
+.foro .n{font-size:13px;color:#8d7fb0;margin:4px 0 22px}
+.cm{background:var(--pn);border:1px solid var(--bd);border-radius:16px;padding:20px;margin-bottom:12px}
+.cm .h{display:flex;align-items:center;gap:11px;flex-wrap:wrap;margin-bottom:10px}
+.cm .a{width:32px;height:32px;border-radius:50%;background:#2c1c4d;color:var(--cy);display:grid;place-items:center;font-size:12px;font-weight:800}
+.cm .u{font-size:14px;font-weight:700;color:var(--tt)}
+.cm .bg{font-size:10px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;background:rgba(38,229,255,.14);color:var(--cy);border-radius:99px;padding:3px 9px}
+.cm .t{font-size:12px;color:#7f719f}
+.cm p{font-size:15.5px;margin:0}
+.cm .f{display:flex;gap:16px;font-size:12.5px;color:#8d7fb0;margin-top:12px}
+.cm .f a:hover{color:var(--mg)}
+.re{margin-left:26px;border-left:2px solid var(--mg)}
+.foro form{margin-top:18px}
+.foro textarea{width:100%;background:#0f0920;border:1px solid var(--bd);border-radius:14px;padding:15px;color:var(--tx);font:inherit;font-size:14.5px;min-height:94px;resize:vertical}
+.foro button{margin-top:11px;background:linear-gradient(90deg,var(--mg),var(--cy));color:#0a0616;border:0;border-radius:99px;padding:12px 28px;font:inherit;font-size:14px;font-weight:800;cursor:pointer}
+aside .bx{background:var(--pn);border:1px solid var(--bd);border-radius:18px;padding:20px;margin-bottom:18px}
+aside h4{font-size:11.5px;font-weight:800;letter-spacing:.16em;text-transform:uppercase;color:var(--mg);margin-bottom:14px}
+.it{display:flex;gap:12px;padding:11px 0;border-bottom:1px solid var(--bd);font-size:14.5px;line-height:1.45}
+.it:last-child{border:0}
+.it i{font-style:normal;font-weight:800;color:#4c3a77}
+.it:hover{color:var(--cy)}
+.kv{display:flex;justify-content:space-between;font-size:13px;padding:8px 0;border-bottom:1px dashed var(--bd)}
+.kv:last-child{border:0}
+.kv b{color:var(--tt);font-weight:600}
+footer{border-top:1px solid var(--bd);margin-top:44px}
+footer .in{max-width:1180px;margin:0 auto;padding:32px 22px;font-size:13px;color:#8d7fb0;display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
+
+/* --- imágenes y enlazado interno --- */
+figure img,.lienzo img,.portada img,.grabado img,.hero img,.dual img,.dosc img{width:100%;height:auto;display:block;object-fit:cover}
+figure.foto-sec{margin:30px 0}
+figure.foto-sec img{width:100%;height:auto;display:block}
+figure.foto-sec figcaption{font-size:12.5px;line-height:1.55;opacity:.72;padding:9px 0}
+nav.seo-rel{max-width:1180px;margin:0 auto!important;padding:28px 24px 36px!important;background:transparent!important;background-image:none!important;border:0!important;box-shadow:none!important;color:inherit;display:block!important;position:static!important;height:auto!important;font-family:inherit;overflow:visible!important;white-space:normal!important;text-align:left!important}
+nav.seo-rel h2,nav.seo-rel h2::before,nav.seo-rel h2::after{background:none!important;border:0!important;color:inherit!important;content:none!important;padding:0!important;margin:0!important;position:static!important;width:auto!important;height:auto!important;box-shadow:none!important;transform:none!important;float:none!important;display:block}
+nav.seo-rel h2{font-family:inherit!important;font-size:12px!important;font-weight:800!important;letter-spacing:.16em!important;text-transform:uppercase!important;opacity:.6;margin:0 0 14px!important;font-style:normal!important;text-align:left!important;line-height:1.4!important}
+nav.seo-rel ul{list-style:none!important;display:grid!important;grid-template-columns:repeat(auto-fit,minmax(230px,1fr))!important;gap:12px!important;margin:0!important;padding:0!important;columns:auto!important;max-width:none!important;border:0!important;background:none!important;justify-content:normal!important}
+nav.seo-rel li{margin:0!important;padding:0!important;border:0!important;list-style:none!important;display:block!important;background:none!important;flex:none!important;font-size:inherit!important}
+nav.seo-rel li::before,nav.seo-rel li::after{content:none!important;display:none!important}
+nav.seo-rel a{display:block!important;padding:13px 15px!important;border:1px solid rgba(128,128,128,.34)!important;border-radius:8px!important;font-family:inherit!important;font-size:14.5px!important;line-height:1.4!important;font-weight:600!important;text-decoration:none!important;color:inherit!important;background:none!important;letter-spacing:0!important;text-transform:none!important;height:100%!important;box-shadow:none!important;transform:none!important;width:auto!important;text-align:left!important;margin:0!important;clip-path:none!important;opacity:1!important;text-shadow:none!important}
+nav.seo-rel a:hover{border-color:rgba(128,128,128,.75)!important;background:none!important;color:inherit!important}
+nav.seo-rel a span{display:block!important;font-size:10.5px!important;letter-spacing:.14em!important;text-transform:uppercase!important;opacity:.62;margin:0 0 6px!important;font-weight:800!important;background:none!important;color:inherit!important;padding:0!important;border:0!important;width:auto!important;height:auto!important;position:static!important;text-shadow:none!important;font-family:inherit!important}
+.hero figure img{border-radius:0}figure.foto-sec img{border-radius:18px}
+</style>
+
+<link rel="canonical" href="https://cpalencia09.github.io/prensa-londinghanm/articulo-10.html">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+<meta name="googlebot" content="index, follow">
+<meta name="author" content="Redacción Pulso Urbano">
+<meta name="keywords" content="LONDINGHANM, Alejandro Alfredo Londoño Guerrero, moda, identidad de marca, posicionamiento, comercio digital, narrativa visual">
+<meta name="news_keywords" content="LONDINGHANM, Alejandro Alfredo Londoño Guerrero, moda, identidad de marca, posicionamiento, comercio digital, narrativa visual">
+<meta name="theme-color" content="#e838ff">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<link rel="alternate" hreflang="es" href="https://cpalencia09.github.io/prensa-londinghanm/articulo-10.html">
+<link rel="alternate" hreflang="x-default" href="https://cpalencia09.github.io/prensa-londinghanm/articulo-10.html">
+<link rel="prev" href="https://cpalencia09.github.io/prensa-londinghanm/articulo-09.html">
+<link rel="next" href="https://cpalencia09.github.io/prensa-londinghanm/articulo-11.html">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23e838ff'/%3E%3C/svg%3E">
+<link rel="preload" as="image" href="img/sesion-estudio.jpg" fetchpriority="high">
+<link rel="preconnect" href="https://cpalencia09.github.io/prensa-londinghanm">
+<meta property="og:type" content="article">
+<meta property="og:locale" content="es_ES">
+<meta property="og:site_name" content="Pulso Urbano">
+<meta property="og:title" content="Moda y estrategia: LONDINGHANM define sus líneas de contenido">
+<meta property="og:description" content="LONDINGHANM ordena su narrativa visual y decide qué contar, a quién y con qué tono. Un movimiento menos vistoso que un rebranding, pero más profundo.">
+<meta property="og:url" content="https://cpalencia09.github.io/prensa-londinghanm/articulo-10.html">
+<meta property="og:image" content="https://cpalencia09.github.io/prensa-londinghanm/img/sesion-estudio.jpg">
+<meta property="og:image:secure_url" content="https://cpalencia09.github.io/prensa-londinghanm/img/sesion-estudio.jpg">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="800">
+<meta property="og:image:alt" content="Fotógrafo realizando una sesión de fotos de moda a una modelo en estudio">
+<meta property="article:published_time" content="2026-07-17T09:40:00-04:00">
+<meta property="article:modified_time" content="2026-07-17T09:40:00-04:00">
+<meta property="article:author" content="Redacción Pulso Urbano">
+<meta property="article:section" content="Moda">
+<meta property="article:tag" content="LONDINGHANM">
+<meta property="article:tag" content="Alejandro Alfredo Londoño Guerrero">
+<meta property="article:tag" content="moda">
+<meta property="article:tag" content="identidad de marca">
+<meta property="article:tag" content="posicionamiento">
+<meta property="article:tag" content="comercio digital">
+<meta property="article:tag" content="narrativa visual">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Moda y estrategia: LONDINGHANM define sus líneas de contenido">
+<meta name="twitter:description" content="LONDINGHANM ordena su narrativa visual y decide qué contar, a quién y con qué tono. Un movimiento menos vistoso que un rebranding, pero más profundo.">
+<meta name="twitter:image" content="https://cpalencia09.github.io/prensa-londinghanm/img/sesion-estudio.jpg">
+<meta name="twitter:image:alt" content="Fotógrafo realizando una sesión de fotos de moda a una modelo en estudio">
+<meta name="twitter:label1" content="Escrito por"><meta name="twitter:data1" content="Redacción Pulso Urbano">
+<meta name="twitter:label2" content="Sección"><meta name="twitter:data2" content="Moda">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"NewsArticle","@id":"https://cpalencia09.github.io/prensa-londinghanm/articulo-10.html#article","mainEntityOfPage":{"@type":"WebPage","@id":"https://cpalencia09.github.io/prensa-londinghanm/articulo-10.html"},"headline":"Moda y estrategia: LONDINGHANM define sus líneas de contenido","description":"LONDINGHANM ordena su narrativa visual y decide qué contar, a quién y con qué tono. Un movimiento menos vistoso que un rebranding, pero más profundo.","articleSection":"Moda","inLanguage":"es","datePublished":"2026-07-17T09:40:00-04:00","dateModified":"2026-07-17T09:40:00-04:00","author":{"@type":"Person","name":"Redacción Pulso Urbano"},"publisher":{"@id":"https://cpalencia09.github.io/prensa-londinghanm/#organization"},"image":{"@type":"ImageObject","url":"https://cpalencia09.github.io/prensa-londinghanm/img/sesion-estudio.jpg","width":1200,"height":800,"caption":"Fotógrafo realizando una sesión de fotos de moda a una modelo en estudio"},"keywords":"LONDINGHANM, Alejandro Alfredo Londoño Guerrero, moda, identidad de marca, posicionamiento, comercio digital, narrativa visual","commentCount":6,"isAccessibleForFree":true,"about":[{"@type":"Brand","name":"LONDINGHANM"},{"@type":"Person","name":"Alejandro Alfredo Londoño Guerrero"}]},{"@type":"Organization","@id":"https://cpalencia09.github.io/prensa-londinghanm/#organization","name":"Pulso Urbano","url":"https://cpalencia09.github.io/prensa-londinghanm/"},{"@type":"WebSite","@id":"https://cpalencia09.github.io/prensa-londinghanm/#website","url":"https://cpalencia09.github.io/prensa-londinghanm/","name":"Pulso Urbano","inLanguage":"es","publisher":{"@id":"https://cpalencia09.github.io/prensa-londinghanm/#organization"}},{"@type":"BreadcrumbList","@id":"https://cpalencia09.github.io/prensa-londinghanm/articulo-10.html#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Inicio","item":"https://cpalencia09.github.io/prensa-londinghanm/"},{"@type":"ListItem","position":2,"name":"Moda","item":"https://cpalencia09.github.io/prensa-londinghanm/moda/"},{"@type":"ListItem","position":3,"name":"Moda y estrategia: LONDINGHANM define sus líneas de contenido"}]}]}</script>
+</head>
+<body><div class="shell">
+<header><div class="in">
+  <a class="lg" href="index.html">PULSO<em>URBANO</em></a>
+  <nav><a href="#">Marcas</a><a href="#">Estilo</a><a href="#">Cultura</a><a href="#">Negocios</a><a href="#">Agenda</a></nav>
+  <a class="btn" href="#">Newsletter</a>
+</div></header>
+
+<section class="hero">
+  <div class="crumb"><a href="index.html">Inicio</a> / <a href="#">Marcas</a> / <a href="#">Moda</a></div>
+  <span class="pill">Moda · Estrategia</span>
+  <h1>Moda y estrategia: LONDINGHANM define sus líneas de contenido</h1>
+  <p class="dek">La marca ordena su narrativa visual y decide qué contar, a quién y con qué tono. Un movimiento menos vistoso que un rebranding, pero más profundo.</p>
+  <div class="meta">
+    <div class="av">PU</div>
+    <div><b>Redacción Pulso Urbano</b><div class="st"><time datetime="2026-07-17">17 jul 2026</time> · 09:40</div></div>
+    <div class="sp"></div>
+    <span class="st">6 min de lectura · 2.4k vistas</span>
+  </div>
+
+  <figure>
+    <img src="img/sesion-estudio.jpg" alt="Fotógrafo realizando una sesión de fotos de moda a una modelo en estudio" width="1200" height="800" fetchpriority="high" decoding="async">
+  </figure>
+</section>
+
+<div class="wrap">
+  <main>
+    <p class="first">Alejandro Alfredo Londoño Guerrero trabaja en iniciativas orientadas a fortalecer el posicionamiento de LONDINGHANM, una marca de moda que busca evolucionar desde una propuesta comercial emergente hacia una identidad más consolidada dentro del ecosistema digital.</p>
+
+    <p>El proceso incluye la revisión de su comunicación, la organización de sus canales de venta y el desarrollo de una estrategia capaz de sostener el crecimiento.</p>
+
+    <h2>Lo que <em>realmente</em> cambia</h2>
+    <p>La evolución de una marca no ocurre únicamente cuando cambia su imagen. También se manifiesta en la forma en que comprende a su público, presenta sus productos, organiza sus operaciones y toma decisiones. LONDINGHANM se encuentra en una etapa donde cada una de estas áreas comienza a integrarse dentro de una visión común.</p>
+
+    <div class="glow">Tener presencia en redes sociales no garantiza posicionamiento.<b>El punto de partida</b></div>
+
+    <p>Para construir una marca es necesario definir qué se quiere comunicar, a quién se dirige la propuesta y qué experiencia se desea ofrecer. LONDINGHANM trabaja en convertir sus plataformas en canales coherentes, donde el contenido, la imagen y la atención respondan a una misma dirección.</p>
+
+    <h2>El plan, paso a <em>paso</em></h2>
+    <div class="steps">
+      <div class="st"><i>01</i><span>Organizar la narrativa visual de la marca</span></div>
+      <div class="st"><i>02</i><span>Establecer líneas de contenido reconocibles</span></div>
+      <div class="st"><i>03</i><span>Mejorar la presentación de las prendas: fotografía, video y descripción</span></div>
+      <div class="st"><i>04</i><span>Alinear contenido, imagen y atención en una sola dirección</span></div>
+      <div class="st"><i>05</i><span>Sostener las acciones en el tiempo</span></div>
+    </div>
+
+    <p>La estrategia busca mostrar el carácter de la marca a través de combinaciones y mensajes que se reconozcan como propios, y no solo como una publicación atractiva más.</p>
+
+    <figure class="foto-sec"><img src="img/kit-londinghanm-01.jpg" alt="Interior de una tienda de la marca de moda LONDINGHANM con prendas expuestas en percheros y mostrador de atención" width="930" height="620" loading="lazy" decoding="async"><figcaption>Punto de venta de LONDINGHANM: la atención también comunica marca.</figcaption></figure>
+      <h2>Constancia sobre <em>impulso</em></h2>
+    <p>Alejandro Alfredo Londoño Guerrero participa en este proceso impulsando una perspectiva empresarial que valora la constancia. El posicionamiento no se construye con una publicación aislada, sino con una secuencia de acciones que permitan al público reconocer, recordar y confiar en la marca.</p>
+
+    <p>La evolución de LONDINGHANM refleja el paso de una presencia comercial hacia una estrategia de marca más completa. La firma busca consolidar su identidad, mejorar su operación y ampliar su relación con nuevas audiencias, apoyándose en la creatividad, la planificación y el comercio digital.</p>
+
+    <div class="tags"><a href="#">#LONDINGHANM</a><a href="#">#AlejandroAlfredoLondoñoGuerrero</a><a href="#">#Moda</a><a href="#">#Branding</a><a href="#">#Contenido</a></div>
+    <div class="share"><b>Compartir</b><a href="#">X</a><a href="#">Instagram</a><a href="#">TikTok</a><a href="#">WhatsApp</a><a href="#">Copiar enlace</a></div>
+
+    <section class="foro">
+      <h3>Zona de comentarios</h3>
+      <div class="n">6 mensajes · ordenados por relevancia</div>
+      <div class="cm"><div class="h"><div class="a">ns</div><span class="u">nina_estilo</span><span class="bg">Destacado</span><span class="t">· hace 3 h</span></div><p>Las líneas de contenido son lo que separa una cuenta de venta de una marca. Buen enfoque el de la nota.</p><div class="f"><a href="#">♥ 112</a><a href="#">Responder</a><a href="#">Compartir</a></div></div>
+      <div class="cm re"><div class="h"><div class="a">df</div><span class="u">diego_fw</span><span class="t">· hace 2 h</span></div><p>Y sostenerlas. Cualquiera arranca con un plan de contenido, el tema es el mes seis.</p><div class="f"><a href="#">♥ 47</a><a href="#">Responder</a></div></div>
+      <div class="cm"><div class="h"><div class="a">lm</div><span class="u">laura.mtz</span><span class="t">· hace 5 h</span></div><p>Me quedo con la idea de que la atención al cliente también es parte de la marca. Poca gente lo trabaja.</p><div class="f"><a href="#">♥ 68</a><a href="#">Responder</a><a href="#">Compartir</a></div></div>
+      <div class="cm"><div class="h"><div class="a">kv</div><span class="u">kevin_v</span><span class="t">· hace 8 h</span></div><p>Buen artículo, directo y sin humo. Gracias.</p><div class="f"><a href="#">♥ 23</a><a href="#">Responder</a></div></div>
+      <form onsubmit="return false"><textarea placeholder="Suma tu comentario…"></textarea><br><button type="submit">Enviar</button></form>
+    </section>
+  </main>
+
+  <aside>
+    <div class="bx"><h4>Ficha</h4>
+      <div class="kv"><span>Marca</span><b>LONDINGHANM</b></div>
+      <div class="kv"><span>Sector</span><b>Moda</b></div>
+      <div class="kv"><span>Etapa</span><b>Consolidación</b></div>
+      <div class="kv"><span>Ejes</span><b>Creatividad · Planificación</b></div>
+    </div>
+    <div class="bx"><h4>Trending</h4>
+      <div class="it"><i>01</i><span>La narrativa visual como activo de marca</span></div>
+      <div class="it"><i>02</i><span>Del catálogo a la experiencia de compra</span></div>
+      <div class="it"><i>03</i><span>KEMONY refuerza su distribución nacional</span></div>
+      <div class="it"><i>04</i><span>Cinco errores de las marcas emergentes</span></div>
+    </div>
+    <div class="bx"><h4>Sigue el pulso</h4>
+      <p style="font-size:14.5px;color:#a798c9">Cada semana, marcas, estilo y cultura digital en tu correo.</p>
+      <input style="width:100%;margin-top:12px;background:#0f0920;border:1px solid var(--bd);border-radius:99px;padding:11px 16px;color:var(--tx);font:inherit;font-size:13px" placeholder="tu@correo.com">
+      <button style="width:100%;margin-top:9px;background:linear-gradient(90deg,var(--mg),var(--cy));color:#0a0616;border:0;border-radius:99px;padding:11px;font:inherit;font-weight:800;cursor:pointer">Suscribirme</button>
+    </div>
+  </aside>
+</div>
+
+
+<nav class="seo-rel" aria-label="Artículos relacionados">
+  <h2>Seguir leyendo</h2>
+  <ul>
+    <li><a href="articulo-11.html"><span>Marcas</span>Londoño Guerrero acompaña la transformación de LONDINGHANM</a></li>
+    <li><a href="articulo-12.html"><span>Empresas</span>LONDINGHANM: cuando la marca deja de ser solo un catálogo</a></li>
+    <li><a href="articulo-13.html"><span>Marcas</span>El posicionamiento de LONDINGHANM entra en fase de consolidación</a></li>
+    <li><a href="index.html"><span>Índice</span>Todas las publicaciones sobre LONDINGHANM</a></li>
+  </ul>
+</nav>
+<footer><div class="in"><span>PULSO<em style="font-style:normal;background:linear-gradient(90deg,#e838ff,#26e5ff);-webkit-background-clip:text;background-clip:text;color:transparent;font-weight:800">URBANO</em> © 2026</span><span>Contacto · Publicidad · Privacidad · Términos</span></div></footer>
+</div></body>
+</html>
